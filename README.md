@@ -2,3 +2,5 @@
 Participants are Lasse Boe, Jorgen Opheim and Adrian Staalesen
 
 We will in this repo store, track and manage all .R files containing neccesary models and scripts to be utilized when analyzing power spreads for our project thesis.
+
+So lets go guys! Dont fuck it up.

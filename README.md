@@ -6,4 +6,4 @@ We will in this repo store, track and manage all .R files containing neccesary m
 So lets go guys! Dont fuck it up.
 
 #test
-#test fra Jorgen sin data
+#test fra Jorgen sin data, hehe
